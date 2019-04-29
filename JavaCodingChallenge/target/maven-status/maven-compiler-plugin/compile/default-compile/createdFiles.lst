@@ -1,0 +1,7 @@
+folder\DBConnection.class
+folder\EntryMapper.class
+folder\Application.class
+folder\Entry.class
+folder\EntryJDBCTemplate.class
+folder\ObjectToJSON.class
+folder\EntryController.class
