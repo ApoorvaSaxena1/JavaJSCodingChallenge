@@ -1,0 +1,14 @@
+The folder contains three html files which implement the following functionalities:
+1) JQXGrid.htm: JQXGrid with sorting and filtering
+2) ChartJS.htm: Pie charts using Chart.js
+3) Server-side Paging.htm: JQXGrid with serer side paging
+
+Since these are static HTML pages, to test the pages we need to run the Chrome Browser without CORS security:
+
+Please follow the link and follow the instaructions based on your OS:
+https://alfilatov.com/posts/run-chrome-without-cors/
+
+After starting the browser, run the three pages.
+
+Both the Rest API and MySQL Database has been deployed on AWS ec2 and RDS respectively.
+
