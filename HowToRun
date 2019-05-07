@@ -5,7 +5,11 @@ The UI folder contains three html files which implement the following functional
 
 Since these are static HTML pages, to test the pages we need to run the Chrome Browser without CORS security:
 
-Please follow the link and follow the instaructions based on your OS:
+
+For Windows, run chrome without CORS security using following command on cmd:
+{Path to chrome.exe}/chrome.exe --disable-web-security
+
+For other OS, please click on the link and follow the instaructions based on your OS:
 https://alfilatov.com/posts/run-chrome-without-cors/
 
 After starting the browser, run the three pages.
